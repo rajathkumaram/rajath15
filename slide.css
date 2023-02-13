@@ -1,0 +1,16 @@
+.poster{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.poster .content{
+    background:linear-gradient(-55deg) #ff7675 29, #d63031,29.1%,#d63031 68%,#ff7675 68.1%;
+    margin: 5px;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: warp;
+    box-shadow: 0 5px 10px #0005;
+}
